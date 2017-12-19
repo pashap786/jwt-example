@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: healthe-entity
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: putt
+Built-By: pasha
 Implementation-Vendor-Id: spring-jwt
 Build-Jdk: 1.8.0_151
 Implementation-URL: http://projects.spring.io/spring-boot/jwt-example/
